@@ -1,0 +1,56 @@
+2025-02-18 11:17:28,030 - INFO - Model loaded successfully.
+2025-02-18 11:17:28,040 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.0.0.93:5000
+2025-02-18 11:17:28,040 - INFO - [33mPress CTRL+C to quit[0m
+2025-02-18 11:17:28,040 - INFO -  * Restarting with stat
+2025-02-18 11:17:28,979 - INFO - Model loaded successfully.
+2025-02-18 11:17:28,983 - WARNING -  * Debugger is active!
+2025-02-18 11:17:28,984 - INFO -  * Debugger PIN: 232-074-747
+2025-02-18 11:17:48,872 - INFO - 127.0.0.1 - - [18/Feb/2025 11:17:48] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2025-02-18 11:17:50,257 - INFO - 127.0.0.1 - - [18/Feb/2025 11:17:50] "GET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2025-02-18 11:17:50,543 - INFO - 127.0.0.1 - - [18/Feb/2025 11:17:50] "GET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2025-02-18 11:17:51,130 - INFO - 127.0.0.1 - - [18/Feb/2025 11:17:51] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2025-02-18 11:17:51,262 - INFO - 127.0.0.1 - - [18/Feb/2025 11:17:51] "GET /?__debugger__=yes&cmd=resource&f=console.png&s=TUayyskJ7bqtu6LnblHU HTTP/1.1" 200 -
+2025-02-18 11:18:09,452 - INFO -  * Detected change in '/workspaces/Project_Week_8/modelApi/serve_model.py', reloading
+2025-02-18 11:18:09,605 - INFO -  * Restarting with stat
+2025-02-18 11:18:10,547 - INFO - Model loaded successfully.
+2025-02-18 11:18:10,551 - WARNING -  * Debugger is active!
+2025-02-18 11:18:10,552 - INFO -  * Debugger PIN: 232-074-747
+2025-02-18 11:18:12,597 - INFO -  * Detected change in '/workspaces/Project_Week_8/modelApi/serve_model.py', reloading
+2025-02-18 11:18:12,726 - INFO -  * Restarting with stat
+2025-02-18 11:18:13,694 - INFO - Model loaded successfully.
+2025-02-18 11:18:13,699 - WARNING -  * Debugger is active!
+2025-02-18 11:18:13,699 - INFO -  * Debugger PIN: 232-074-747
+2025-02-18 11:18:31,024 - INFO - 127.0.0.1 - - [18/Feb/2025 11:18:31] "[33mGET / HTTP/1.1[0m" 404 -
+2025-02-18 11:18:31,939 - INFO - 127.0.0.1 - - [18/Feb/2025 11:18:31] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-02-18 11:18:37,295 - INFO - 127.0.0.1 - - [18/Feb/2025 11:18:37] "[33mGET / HTTP/1.1[0m" 404 -
+2025-02-18 11:19:03,287 - INFO -  * Detected change in '/workspaces/Project_Week_8/modelApi/serve_model.py', reloading
+2025-02-18 11:19:03,506 - INFO -  * Restarting with stat
+2025-02-18 11:19:04,552 - INFO - Model loaded successfully.
+2025-02-18 11:19:04,557 - WARNING -  * Debugger is active!
+2025-02-18 11:19:04,568 - INFO -  * Debugger PIN: 232-074-747
+2025-02-18 11:19:11,682 - INFO -  * Detected change in '/workspaces/Project_Week_8/modelApi/serve_model.py', reloading
+2025-02-18 11:19:11,802 - INFO -  * Restarting with stat
+2025-02-18 11:19:12,719 - INFO - Model loaded successfully.
+2025-02-18 11:19:12,723 - WARNING -  * Debugger is active!
+2025-02-18 11:19:12,724 - INFO -  * Debugger PIN: 232-074-747
+2025-02-18 11:19:14,765 - INFO -  * Detected change in '/workspaces/Project_Week_8/modelApi/serve_model.py', reloading
+2025-02-18 11:19:14,925 - INFO -  * Restarting with stat
+2025-02-18 11:19:35,712 - INFO - Model loaded successfully.
+2025-02-18 11:19:35,720 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.0.0.93:5000
+2025-02-18 11:19:35,720 - INFO - [33mPress CTRL+C to quit[0m
+2025-02-18 11:19:35,721 - INFO -  * Restarting with stat
+2025-02-18 11:19:36,659 - INFO - Model loaded successfully.
+2025-02-18 11:19:36,663 - WARNING -  * Debugger is active!
+2025-02-18 11:19:36,664 - INFO -  * Debugger PIN: 232-074-747
+2025-02-18 11:19:41,649 - INFO - 127.0.0.1 - - [18/Feb/2025 11:19:41] "[33mGET / HTTP/1.1[0m" 404 -
+2025-02-18 11:21:06,718 - INFO -  * Detected change in '/workspaces/Project_Week_8/modelApi/serve_model.py', reloading
+2025-02-18 11:21:06,891 - INFO -  * Restarting with stat
+2025-02-18 11:21:07,095 - ERROR - Model file not found!
+2025-02-18 11:21:57,197 - ERROR - Model file not found!
+2025-02-18 11:22:16,526 - ERROR - Model file not found!
